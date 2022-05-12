@@ -25,4 +25,4 @@ _\[Placeholder\]_
 ## Software Development Team
 **May 2022 - Aug 2022**
 * **Team Lead:** Shenyi Cui
-* **Team Members:** Jason Qiu, Quan Nam, Elizabeth Hong, Brian Quek, Jamie
+* **Team Members:** Jason Qiu, Quan Nam, Elizabeth Hong, Brian Quek, Jamie Leow, Audrey Wong
