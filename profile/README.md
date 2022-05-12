@@ -12,8 +12,8 @@ Welcome to the Offical [Dulwich Bookings Organization](https://www.ivykang.com/u
 * **Backend ([Documentation](), [Repository](https://github.com/Dulwich-Bookings/Dulwich-Bookings-API)):** NodeJS, Express, Sequelize, TypeScript, PostgreSQL
 
 ## Founding Team
-* **Lead Designer:** [Ivy Kang](https://www.ivykang.com/)
-* **Lead Developer:** [Shenyi Cui](https://github.com/ShenyiCui)
+* **Lead Designer:** [Ivy Kang](https://www.linkedin.com/in/ivy-kang-8588a7194/)
+* **Lead Developer:** [Shenyi Cui](https://www.linkedin.com/in/shenyi-cui-4b9b95211/)
 
 ## Screenshots
 _\[Placeholder\]_
