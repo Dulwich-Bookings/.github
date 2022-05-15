@@ -8,7 +8,7 @@ Welcome to the Offical [Dulwich Bookings Organization](https://www.ivykang.com/u
 
 ## Project Particulars
 ### Tech Stack
-* **Frontend ([Live Site](), [Repository](https://github.com/Dulwich-Bookings/Dulwich-Bookings-Frontend)):** React, Redux, TypeScript, Material UI, Tailwind CSS
+* **Frontend ([Live Site](https://dulwich-bookings.netlify.app/), [Repository](https://github.com/Dulwich-Bookings/Dulwich-Bookings-Frontend)):** React, Redux, TypeScript, Material UI, Tailwind CSS
 * **Backend ([Documentation](), [Repository](https://github.com/Dulwich-Bookings/Dulwich-Bookings-API)):** NodeJS, Express, Sequelize, TypeScript, PostgreSQL
 
 ## Founding Team
